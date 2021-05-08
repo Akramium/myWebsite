@@ -37,14 +37,14 @@ hr {
 }
 
 a{
-  color: #11999E;
+  color: #eeeeee;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
 }
 
 a:hover {
-  color: #EAF6F6;
+  color: #393e46;
 }
 
 .top-container {
@@ -58,7 +58,7 @@ a:hover {
 }
 
 .bottom-container {
-  background-color: #66BFBF;
+  background-color: #00adb5;
   padding: 50px 0 20px;
 }
 
